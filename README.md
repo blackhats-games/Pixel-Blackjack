@@ -13,3 +13,5 @@ Pixel Blackjack is a simplified version of the card game Blackjack, the essence 
 ![Download Pixel-Blackjack from the repository](https://img.shields.io/badge/Download-black?style=for-the-badge) 
 
 ![Download From The Repository](Pixel-Blackjack.rar)
+
+[Download From Gamejolt](https://gamejolt.com/games/pixel_blackjack/887560)
