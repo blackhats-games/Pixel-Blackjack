@@ -7,4 +7,5 @@ Pixel Blackjack is a simplified version of the card game Blackjack, the essence 
 
 ![Screenshots](https://img.shields.io/badge/Screenshots-black?style=for-the-badge&logo=pixabay&logoColor=white)
 
-![Screenshot_1](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Screenshot_1](Screenshot_2.png)
+![Screenshot_2](Screenshot_5.png)
